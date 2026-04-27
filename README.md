@@ -29,11 +29,12 @@ The design was replicated as closely as possible while keeping the implementatio
 ---
 
 ## 📂 Project Structure
+```bash
 landing-page/
-│
 ├── index.html
 ├── styles.css
 └── README.md
+```
 
 ---
 
